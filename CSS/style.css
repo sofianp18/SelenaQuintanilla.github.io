@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin: 0; padding:  0 ;}
+body {background-image: url("../IMG/fondo byn.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed;	text-align: center; color: white ; font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";}	
+	/* se coloco el fondo */
+.wrapper {background-color: rgba(32,9,123,0.86); width: 1000px ; margin-left: auto; margin-right: auto; }
+footer {font-size: 10px; background-color: darkslateblue; height: 50px; line-height: 50px;  }
+.menu{background-color: darkviolet; height:220 px; }
+ul {list-style-type:none;}
+li{width: 249px; float:left; border-left: 1px solid white; line-height: 25px; }
+#borde{border-left: none}
+.titulo {font-size: 60px; line-height: 150px;}
